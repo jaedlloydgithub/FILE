@@ -1,3 +1,0 @@
-Instruction 2: The task is challenging that's why you should focus on the instruction given.
-
-Find the flag here:https://github.com/jaedlloydgithub/CHALLENGE/tree/main
